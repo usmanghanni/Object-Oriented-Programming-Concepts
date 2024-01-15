@@ -30,7 +30,7 @@
 ## Class
 
 - Classes are defined by the user
-- Classes acts as bluepribt for object, attribute and methods
+- Classes acts as blueprint for object, attribute and methods
 - A class is consist of declaration and defination
 - Class is created using the class keyword
 - Classes are used to create and manage new object and support inheritance 
